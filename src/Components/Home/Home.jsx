@@ -102,14 +102,14 @@ export default function Home() {
             <p className=' h3 text-muted mt-5 '>A cutting-edge shipping company based in Alexandria, Egypt. N.C
               logistics specializes in providing efficient and reliable cargo
               transportation services worldwide, both by sea and air. With a strong
-              focus on customer satisfaction, Nile Cargo aims to become a leading
+              focus on customer satisfaction, NC logictics aims to become a leading
               player in the global logistics industry.
               Our commitment is to excellence is reflected in our ISO 9001 and ISO
               14100 Certificates, we firmly believe in the value of our people,
               leadership and technical expertise.</p>
           </div>
           <div className="col-md-6 p-5">
-            <img src={who} alt="" />
+            <img src={who} className='w-100' alt="" />
           </div>
         </div>
       </div>

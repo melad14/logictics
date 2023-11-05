@@ -15,6 +15,7 @@ export default function Facts() {
                       <div className="ps-4">
                           <h6>Call for any query!</h6>
                           <h3 className="text-danger m-0"> +2 01116031999</h3>
+                          <h3 className="text-danger m-0"> +2034238500</h3>
                       </div>
                   </div>
               </div>

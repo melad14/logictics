@@ -82,6 +82,10 @@ export default function Contact() {
                                     01116031999
                                 </p>
                                 <p className="mb-2">
+                                    <i className="fa fa-phone-alt me-3 text-danger"></i> +2
+                                    +2034238500
+                                </p>
+                                <p className="mb-2">
                                     <i className="fa fa-envelope me-3 text-danger"></i>
                                     info@nclogictics.com
                                 </p>

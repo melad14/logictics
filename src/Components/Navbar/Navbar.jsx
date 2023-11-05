@@ -32,7 +32,7 @@ export default function   Navbar() {
                 <Link to="features" className="nav-item nav-link">Features</Link>
                 <Link to="contact" className="nav-item nav-link">Contact</Link>
             </div>
-            <h4 className="m-0 pe-lg-5 d-none d-lg-block"><i className="fa fa-phone text-danger me-3"></i> +2 01116031999</h4>
+            <h6 className="m-0 pe-lg-5 d-none d-lg-block"><i className="fa fa-phone text-danger me-3"></i> +2 01116031999 <br /> <i className="fa fa-phone text-danger me-3"></i> +2034238500</h6>
         </div>
     </nav>
 

@@ -98,7 +98,7 @@ export default function Custom() {
                     <i className="me-3  text-success  fa-regular fa-circle-check"></i>
                     <h5 className='text-muted d-inline'>In addition to the mentioned documents above, there may be additional
                         documents required depending on the type of goods <br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; and customs requirements of
-                        the importing country. It is advisable to communicate directly with Nile Cargo to <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        the importing country. It is advisable to communicate directly with NC logictics to <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         get a detailed and updated list of the required documents for your specific
                         shipment and target country.
                     </h5>

@@ -76,8 +76,7 @@ export default function Features() {
                                     significantly in modern infrastructure and advanced technologies to
                                     optimize its operations. Equipped with state-of-the-art handling facilities,
                                     Page 3 of 17
-                                    cutting-edge tracking systems, and secure warehousing solutions, Nile
-                                    Cargo guarantees the safe handling and storage of your cargo throughout
+                                    cutting-edge tracking systems, and secure warehousing solutions,NC logictics guarantees the safe handling and storage of your cargo throughout
                                     its journey.
                                 </p>
 
